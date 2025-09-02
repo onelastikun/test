@@ -17,17 +17,11 @@
 
 </font>
 
-.
-
-├── bin
-
-├── build
-
-├── LICENSE.txt
-
-├── Makefile
-
-├── README.md
-
+.\
+├── bin\
+├── build\
+├── LICENSE.txt\
+├── Makefile\
+├── README.md\
 └── src
 
