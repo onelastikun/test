@@ -17,10 +17,10 @@
 
 </font>
 
-.\
-├── bin\
-├── LICENSE.txt\
-├── Makefile\
-├── README.md\
-└── src\
-    └── test.c\
+    .
+    ├── bin
+    ├── LICENSE.txt
+    ├── Makefile
+    ├── README.md
+    └── src
+        └── test.c
