@@ -19,9 +19,8 @@
 
 .\
 ├── bin\
-├── build\
 ├── LICENSE.txt\
 ├── Makefile\
 ├── README.md\
-└── src
-
+└── src\
+    └── test.c\
